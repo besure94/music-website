@@ -1,3 +1,7 @@
+.album {
+	color:black;
+}
+
 .columns {
 	display: flex;
 	justify-content: space-evenly;
@@ -7,11 +11,23 @@
 	text-align: center;
 }
 
-.container p {
+.jumbotron p {
 	text-align: center;
+}
+
+.images {
+	display: flex;
+	justify-content: space-evenly;
 }
 
 img {
 	width: 150px;
+	height: auto;
+}
+
+.slic {
+	float: left;
+	margin-right: 10px;
+	width: 200px;
 	height: auto;
 }
