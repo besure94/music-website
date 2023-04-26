@@ -1,5 +1,5 @@
 .album {
-	color:black;
+	color: #e71d36;
 }
 
 .columns {
@@ -21,6 +21,11 @@
 	height: auto;
 }
 
+.container {
+	background-color: black;
+	color: #e71d36;
+}
+
 .container h1 {
 	text-align: center;
 }
@@ -30,6 +35,11 @@
 	margin-right: 10px;
 	width: 150px;
 	height: auto;
+}
+
+.jumbotron {
+	color: #e71d36;
+	background-color: black;
 }
 
 .jumbotron p {
