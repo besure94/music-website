@@ -7,8 +7,29 @@
 	justify-content: space-evenly;
 }
 
+.comfort {
+	float: left;
+	margin-right: 10px;
+	width: 150px;
+	height: auto;
+}
+
+.comfort2 {
+	float: left;
+	margin-right: 10px;
+	width: 150px;
+	height: auto;
+}
+
 .container h1 {
 	text-align: center;
+}
+
+.fright {
+	float: left;
+	margin-right: 10px;
+	width: 150px;
+	height: auto;
 }
 
 .jumbotron p {
@@ -28,6 +49,6 @@ img {
 .slic {
 	float: left;
 	margin-right: 10px;
-	width: 200px;
+	width: 150px;
 	height: auto;
 }
